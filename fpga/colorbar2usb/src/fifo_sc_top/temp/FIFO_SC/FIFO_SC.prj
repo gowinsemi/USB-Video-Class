@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE gowin-synthesis-project>
+<Project>
+    <Version>beta</Version>
+    <Device id="GW2AR-18C" package="QFN88P" speed="7" partNumber="GW2AR-LV18QN88PC7/I6"/>
+    <FileList>
+        <File path="F:/Winson/USB/Trunk/usb_device_controller/Demo/GW2A18/usb20_demo/usb2video/src/fifo_sc_top/temp/FIFO_SC/fifo_sc_define.v" type="verilog"/>
+        <File path="F:/Winson/USB/Trunk/usb_device_controller/Demo/GW2A18/usb20_demo/usb2video/src/fifo_sc_top/temp/FIFO_SC/fifo_sc_parameter.v" type="verilog"/>
+        <File path="C:/Gowin/Gowin_V1.9.8Beta/IDE/ipcore/FIFO_SC/data/edc_sc.v" type="verilog"/>
+        <File path="C:/Gowin/Gowin_V1.9.8Beta/IDE/ipcore/FIFO_SC/data/fifo_sc.v" type="verilog"/>
+        <File path="C:/Gowin/Gowin_V1.9.8Beta/IDE/ipcore/FIFO_SC/data/fifo_sc_top.v" type="verilog"/>
+    </FileList>
+    <OptionList>
+        <Option type="disable_insert_pad" value="1"/>
+        <Option type="dsp_balance" value="1"/>
+        <Option type="output_file" value="fifo_sc_top.vg"/>
+        <Option type="output_template" value="fifo_sc_top_tmp.v"/>
+        <Option type="ram_balance" value="1"/>
+        <Option type="ram_rw_check" value="1"/>
+        <Option type="verilog_language" value="sysv-2017"/>
+    </OptionList>
+</Project>
